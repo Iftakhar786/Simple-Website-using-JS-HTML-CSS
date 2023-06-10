@@ -1,0 +1,128 @@
+
+.center{
+
+   margin: auto;
+   width: 50%;
+   text-align: center;
+   font-size: 50px;
+   border: 5px solid indianred;
+   font-family: Monospace;
+   padding: 10px;
+   background-color: ghostwhite;
+
+  
+}
+
+.container{
+
+	display: grid;
+	text-align: center;
+	grid-template-columns: repeat(4);
+    grid-template-rows: repeat(4);
+    
+
+}
+
+.header{
+
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: LavenderBlush   ;
+    border-radius: 5px;
+    
+}
+
+
+
+.slidebar{
+   
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: PaleTurquoise ;
+}
+
+.content{
+   
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: lavender;
+}
+
+.footer{
+   
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: lightsteelblue;
+}
+
+.aaa{
+   
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: DarkSalmon ;
+}
+
+.bbb{
+   
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: Thistle   ;
+}
+
+.ggg{
+   
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: Moccasin   ;
+}
+
+.ccc{
+   
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: LightCoral    ;
+}
+
+.f{
+  
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: SandyBrown   ;
+}
+
+.l{
+  
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: Coral    ;
+}
+
+.k{
+  
+    font-family: Monospace;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: Bisque   ;
+}
+
